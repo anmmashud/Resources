@@ -2,20 +2,24 @@
 
 Welcome to the **Resources** repository! Here you will find curated learning resources to help you learn and practice **Data Science** and **Data Analytics**.
 
----
+## How to Use This Repository
+
+1. **Browse Categories**: Navigate through the sections to find resources on Excel, SQL, Python, Pandas, and NumPy.
+2. **Access Resources**: Click on the links provided to access Videos__, playlists, online courses, and project tutorials.
+3. **Contribute**: If you have valuable resources to add, feel free to create a pull request or open an issue.
+
 
 ## 📜 Table of Contents
 
 - [📊 Excel](#excel)
-- [🗄️ SQL](#🗄️-sql)
-- [🐍 Python](#🐍-python)
-- [📈 Pandas](#📈-pandas)
-- [🔢 NumPy](#🔢-numpy)
-- [📺 Channels](#📺-channels)
-- [📌 How to Use This Repository](#📌-how-to-use-this-repository)
-- [🎓 Project Course (YouTube)](#🎓-project-course-youtube)
-- [📝 License](#📝-license)
-- [📧 Contact](#📧-contact)
+- [🗄️ SQL](#sql)
+- [🐍 Python](#python)
+- [📈 Pandas](#pandas)
+- [🔢 NumPy](#numpy)
+- [📺 Channels](#channels)
+- [📌 How to Use This Repository](#how-to-use-this-repository)
+- [🎓 Final Projects](#final-projects)
+
 
 ## Excel
 
@@ -50,7 +54,7 @@ __🌐 Website (Learn and practice online)__
 
 
 
-## 🗄️ SQL
+## SQL
 
 __🎥 SQL Videos__
 
@@ -80,7 +84,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 🐍 Python
+## Python
 
 __🎥 Python Videos__
 
@@ -110,7 +114,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 📈 Pandas
+## Pandas
 
 __🎥 Pandas Videos__
 
@@ -141,7 +145,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 🔢 NumPy
+## NumPy
 
 __🎥 NumPy Videos__
 
@@ -170,7 +174,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 📺 Channels
+## Channels
 
 1. **Luke Barousse**  
    [YouTube Channel](https://youtube.com/@lukebarousse)
@@ -186,17 +190,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 📌 How to Use This Repository
-
-1. **Browse Categories**: Navigate through the sections to find resources on Excel, SQL, Python, Pandas, and NumPy.
-2. **Access Resources**: Click on the links provided to access Videos__, playlists, online courses, and project tutorials.
-3. **Contribute**: If you have valuable resources to add, feel free to create a pull request or open an issue.
-
-
----
-
-
- 🎓 Project Course (YouTube) {#project-course-youtube}
+## Final Projects
 
 - [Coming soon...](https://#)
 
@@ -211,7 +205,7 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
- 📧 Contact
+## 📧 Contact
 
 For any questions or suggestions, feel free to reach out at [anmmashud123@gmail.com](mailto:anmmashud123@gmail.com).
 
