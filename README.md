@@ -66,7 +66,9 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 | *(Project Title)*  | *(Playlist/Single Video)* | *(Channel Name)*  | *(Language)* | *(Duration)* | *(Number of Videos)* | [Watch Here](#) |
 | *(Add more project resources here)* | *(Type)* | *(Channel Name)* | *(Language)* | *(Duration)* | *(Number of Videos)* | [Watch Here](#) |
 
+
 ---
+
 
 ## 🗄️ SQL
 
@@ -92,7 +94,9 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 |--------------------|------------------------|-------------------|--------------|--------------|--------------------|----------------|
 | *(Contents are coming soon)* | *(Type)* | *(Channel Name)* | *(Language)* | *(Duration)* | *(Number of Videos)* | [Watch Here](#) |
 
+
 ---
+
 
 ## 🐍 Python
 
@@ -118,7 +122,9 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 |--------------------|------------------------|-------------------|--------------|--------------|--------------------|----------------|
 | *(Contents are coming soon)* | *(Type)* | *(Channel Name)* | *(Language)* | *(Duration)* | *(Number of Videos)* | [Watch Here](#) |
 
+
 ---
+
 
 ## 📈 Pandas
 
@@ -144,7 +150,9 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 |--------------------|------------------------|-------------------|--------------|--------------|--------------------|----------------|
 | *(Contents are coming soon)* | *(Type)* | *(Channel Name)* | *(Language)* | *(Duration)* | *(Number of Videos)* | [Watch Here](#) |
 
+
 ---
+
 
 ## 🔢 NumPy
 
@@ -170,7 +178,9 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 |--------------------|------------------------|-------------------|--------------|--------------|--------------------|----------------|
 | *(Contents are coming soon)* | *(Type)* | *(Channel Name)* | *(Language)* | *(Duration)* | *(Number of Videos)* | [Watch Here](#) |
 
+
 ---
+
 
 ## 📺 Channels
 
@@ -184,7 +194,9 @@ Welcome to the **Resources** repository! Here you will find curated learning res
    [YouTube Channel](https://youtube.com/@DataProfessor)
 5. *(Contents are coming soon)*
 
+
 ---
+
 
 ## 📌 How to Use This Repository
 
@@ -192,22 +204,29 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 2. **Access Resources**: Click on the links provided to access videos, playlists, online courses, and project tutorials.
 3. **Contribute**: If you have valuable resources to add, feel free to create a pull request or open an issue.
 
+
 ---
+
 
 ### 🎓 Project Course (YouTube)
 
 - [Coming soon...](https://#)
 
+
 ---
+
 
 ## 📝 License
 
 This repository is licensed under the [MIT License](LICENSE).
 
+
 ---
+
 
 ### 📧 Contact
 
 For any questions or suggestions, feel free to reach out at [anmmashud123@gmail.com](mailto:anmmashud123@gmail.com).
+
 
 ---
