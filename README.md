@@ -3,6 +3,7 @@
 Welcome to the **Resources** repository! Here you will find curated learning resources to help you learn and practice **Data Science** and **Data Analytics**.
 
 ---
+(Table of content)
 
 ## 📊 Excel
 
@@ -11,14 +12,14 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 | **Title** | **Channel** | **Language** | **Duration** | **Link** |
 |-----------|-------------|--------------|--------------|----------|
 | Excel for Data Analytics - Full Course for Beginners | Luke Barousse | English | 11 hrs | [Watch Here](https://youtu.be/pCJ15nGFgVg?si=e3qADviObSye8rwr) |
-| *(Add more videos here)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Link](#) |
+| *(Contents are comming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Link](#) |
 
 ### 📚 Playlists
 
 | **Title** | **Channel** | **Language** | **Duration** | **Videos** | **Link** |
 |-----------|-------------|--------------|--------------|------------|----------|
 | *(Playlist Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | *(Number of Videos)* | [Watch Here](#) |
-| *(Add more playlists here)* | *(Channel Name)* | *(Language)* | *(Duration)* | *(Number of Videos)* | [Watch Here](#) |
+| *(Contents are comming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | *(Number of Videos)* | [Watch Here](#) |
 
 ### 🌐 Online (Self-paced)
 
