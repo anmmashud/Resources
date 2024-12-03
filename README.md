@@ -165,14 +165,6 @@ __🌐 Website (Learn and practice online)__
 
 ---
 
-
-
-| **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
-|-------------------------|-------------------|--------------|--------------|----------------|
-| *(Playlist Title)*| --  | -- | -- | -- |
-| *(Contents are c)* | -- | -- | -- | -- |
-
-
 ## YouTube Channels
 
 1. **Luke Barousse**  
