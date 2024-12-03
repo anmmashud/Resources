@@ -6,7 +6,7 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 
 ## 📜 Table of Contents
 
-- [📊 Excel](#-excel)
+- [📊 Excel](#excel)
 - [🗄️ SQL](#sql)
 - [🐍 Python](#python)
 - [📈 Pandas](#pandas)
@@ -17,9 +17,7 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 - [📝 License](#license)
 - [📧 Contact](#contact)
 
----
-
-# Excel
+## 📊 Excel {#excel}
 
 __🎥 Excel Videos__
 
@@ -35,9 +33,7 @@ __📚 Excel Playlists__
 | *(Playlist Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
 | *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
 
-__🌐 Excel Online (Self-paced)__
 
-- **Excel Practice Online**: [excel-practice-online.com](https://excel-practice-online.com)
 
 __🛠️ Excel Projects__
 
@@ -46,11 +42,15 @@ __🛠️ Excel Projects__
 | *(Project Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
 | *(Project Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
 
+__🌐 Website (Learn and practice online)__
 
----
+- **Excel Practice Online**: [excel-practice-online.com](https://excel-practice-online.com)
+- **W3Schol**: [Excel]()
 
 
-## 🗄️ SQL
+
+
+## 🗄️ SQL {#sql}
 
 __🎥 SQL Videos__
 
@@ -65,9 +65,6 @@ __📚 SQL Playlists__
 | *(Playlist Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
 | *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
 
-__🌐 SQL Online (Self-paced)__
-
-- ***(Add your online SQL resources here)*
 
 __🛠️ SQL Projects__
 
@@ -76,11 +73,14 @@ __🛠️ SQL Projects__
 | *(Project Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
 | *(Project Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
 
+__🌐 Website (Learn and practice online)__
+
+- **(Contents are coming soon)**
 
 ---
 
 
-## 🐍 Python
+## 🐍 Python {#python}
 
 __🎥 Python Videos__
 
@@ -95,9 +95,6 @@ __📚 Python Playlists__
 | *(Playlist Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
 | *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
 
-__🌐 Python Online (Self-paced)__
-
-- ***(Add your online Python resources here)*
 
 __🛠️ Python Projects__
 
@@ -106,10 +103,14 @@ __🛠️ Python Projects__
 | *(Project Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
 | *(Project Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
 
+__🌐 Website (Learn and practice online)__
+
+- **(Contents are coming soon)**
+
 ---
 
 
-## 📈 Pandas
+## 📈 Pandas {#pandas}
 
 __🎥 Pandas Videos__
 
@@ -124,9 +125,7 @@ __📚 Pandas Playlists__
 | *(Playlist Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
 | *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
 
-__🌐 Pandas Online (Self-paced)__
 
-- ***(Add your online Pandas resources here)*
 
 __🛠️ Pandas Projects__
 
@@ -135,11 +134,14 @@ __🛠️ Pandas Projects__
 | *(Project Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
 | *(Project Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
 
+__🌐 Website (Learn and practice online)__
+
+- **(Contents are coming soon)**
 
 ---
 
 
-## 🔢 NumPy
+## 🔢 NumPy {#numpy}
 
 __🎥 NumPy Videos__
 
@@ -153,9 +155,6 @@ __📚 NumPy Playlists__
 |-------------------------|-------------------|--------------|--------------|--------------------|----------------|
 | *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | *(Number of Videos__)* | [Watch Here](#) |
 
-__🌐 NumPy Online (Self-paced)__
-
-- ***(Add your online NumPy resources here)*
 
 __🛠️ NumPy Projects__
 
@@ -164,11 +163,14 @@ __🛠️ NumPy Projects__
 | *(Project Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
 | *(Project Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
 
+__🌐 Website (Learn and practice online)__
+
+- **(Contents are coming soon)**
 
 ---
 
 
-## 📺 Channels
+## 📺 Channels {#channels}
 
 1. **Luke Barousse**  
    [YouTube Channel](https://youtube.com/@lukebarousse)
@@ -184,7 +186,7 @@ __🛠️ NumPy Projects__
 ---
 
 
-## 📌 How to Use This Repository
+## 📌 How to Use This Repository {#how-to-use-this-repository}
 
 1. **Browse Categories**: Navigate through the sections to find resources on Excel, SQL, Python, Pandas, and NumPy.
 2. **Access Resources**: Click on the links provided to access Videos__, playlists, online courses, and project tutorials.
@@ -194,7 +196,7 @@ __🛠️ NumPy Projects__
 ---
 
 
- 🎓 Project Course (YouTube)
+ 🎓 Project Course (YouTube) {#project-course-youtube}
 
 - [Coming soon...](https://#)
 
@@ -202,13 +204,12 @@ __🛠️ NumPy Projects__
 ---
 
 
-## 📝 License
+## 📝 License {#license}
 
 This repository is licensed under the [MIT License](LICENSE).
 
 
 ---
-
 
  📧 Contact
 
