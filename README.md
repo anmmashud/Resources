@@ -6,7 +6,7 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 
 ## 📜 Table of Contents
 
-- [📊 Excel](#excel)
+- [📊 Excel](#📊Excel)
   - [🎥 Excel Videos](##excel-videos)
   - [📚 Excel Playlists](###excel-playlists)
   - [🌐 Excel Online (Self-paced)](##excel-online-self-paced)
@@ -39,7 +39,7 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 
 ---
 
-#📊 Excel
+#📊Excel
 
 ### 🎥 Excel Videos
 
