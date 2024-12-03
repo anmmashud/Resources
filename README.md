@@ -39,7 +39,7 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 
 ---
 
-#📊Excel
+# 📊Excel
 
 ### 🎥 Excel Videos
 
