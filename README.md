@@ -6,18 +6,18 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 
 ## 📜 Table of Contents
 
-- [📊 Excel](#excel)
-- [🗄️ SQL](#sql)
-- [🐍 Python](#python)
-- [📈 Pandas](#pandas)
-- [🔢 NumPy](#numpy)
-- [📺 Channels](#channels)
-- [📌 How to Use This Repository](#how-to-use-this-repository)
-- [🎓 Project Course (YouTube)](#project-course-youtube)
-- [📝 License](#license)
-- [📧 Contact](#contact)
+- [📊 Excel](#📊-excel)
+- [🗄️ SQL](#🗄️-sql)
+- [🐍 Python](#🐍-python)
+- [📈 Pandas](#📈-pandas)
+- [🔢 NumPy](#🔢-numpy)
+- [📺 Channels](#📺-channels)
+- [📌 How to Use This Repository](#📌-how-to-use-this-repository)
+- [🎓 Project Course (YouTube)](#🎓-project-course-youtube)
+- [📝 License](#📝-license)
+- [📧 Contact](#📧-contact)
 
-## 📊 Excel {#excel}
+## 📊 Excel
 
 __🎥 Excel Videos__
 
@@ -50,7 +50,7 @@ __🌐 Website (Learn and practice online)__
 
 
 
-## 🗄️ SQL {#sql}
+## 🗄️ SQL
 
 __🎥 SQL Videos__
 
@@ -80,7 +80,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 🐍 Python {#python}
+## 🐍 Python
 
 __🎥 Python Videos__
 
@@ -110,7 +110,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 📈 Pandas {#pandas}
+## 📈 Pandas
 
 __🎥 Pandas Videos__
 
@@ -141,7 +141,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 🔢 NumPy {#numpy}
+## 🔢 NumPy
 
 __🎥 NumPy Videos__
 
@@ -170,7 +170,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 📺 Channels {#channels}
+## 📺 Channels
 
 1. **Luke Barousse**  
    [YouTube Channel](https://youtube.com/@lukebarousse)
@@ -186,7 +186,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 📌 How to Use This Repository {#how-to-use-this-repository}
+## 📌 How to Use This Repository
 
 1. **Browse Categories**: Navigate through the sections to find resources on Excel, SQL, Python, Pandas, and NumPy.
 2. **Access Resources**: Click on the links provided to access Videos__, playlists, online courses, and project tutorials.
@@ -204,7 +204,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## 📝 License {#license}
+## 📝 License
 
 This repository is licensed under the [MIT License](LICENSE).
 
