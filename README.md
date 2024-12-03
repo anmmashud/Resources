@@ -148,9 +148,10 @@ __🎥 NumPy Videos__
 
 __📚 NumPy Playlists__
 
-| **Title**               | **Channel**       | **Language** | **Duration** | **Videos__**         | **Link**       |
-|-------------------------|-------------------|--------------|--------------|--------------------|----------------|
-| *(Contents are coming soon)* | -- | -- | -- | *(Number of Videos__)* | -- |
+| **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
+|-------------------------|-------------------|--------------|--------------|----------------|
+| *(Contents are coming soon)* | -- | -- | -- | --       |
+
 
 
 __🛠️ NumPy Projects__
