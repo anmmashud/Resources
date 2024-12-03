@@ -16,7 +16,7 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 - [🐍 Python](#python)
 - [📈 Pandas](#pandas)
 - [🔢 NumPy](#numpy)
-- [📺 Channels](#channels)
+- [📺 YouTube Channels](#youtube-channels)
 - [🎓 Final Projects](#final-projects)
 
 
@@ -51,7 +51,7 @@ __🌐 Website (Learn and practice online)__
 - **W3Schol**: [Excel]()
 
 
-
+---
 
 ## SQL
 
@@ -173,7 +173,7 @@ __🌐 Website (Learn and practice online)__
 ---
 
 
-## Channels
+## YouTube Channels
 
 1. **Luke Barousse**  
    [YouTube Channel](https://youtube.com/@lukebarousse)
@@ -191,7 +191,7 @@ __🌐 Website (Learn and practice online)__
 
 ## Final Projects
 
-- [Coming soon...](https://#)
+- **Coming Soon...**
 
 
 ---
