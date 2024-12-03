@@ -6,11 +6,11 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 
 ## 📜 Table of Contents
 
-- [📊 Excel](#excel)
-  - [🎥 Excel Videos](#excel-videos)
-  - [📚 Excel Playlists](#excel-playlists)
-  - [🌐 Excel Online (Self-paced)](#excel-online-self-paced)
-  - [🛠️ Excel Projects](#excel-projects)
+- [📊 Excel](##excel)
+  - [🎥 Excel Videos](###excel-videos)
+  - [📚 Excel Playlists](###excel-playlists)
+  - [🌐 Excel Online (Self-paced)](##excel-online-self-paced)
+  - [🛠️ Excel Projects](###excel-projects)
 - [🗄️ SQL](#sql)
   - [🎥 SQL Videos](#sql-videos)
   - [📚 SQL Playlists](#sql-playlists)
