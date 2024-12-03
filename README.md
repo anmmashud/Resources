@@ -6,7 +6,7 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 
 ## 📜 Table of Contents
 
-- [📊 Excel](#📊-excel)
+- [📊 Excel](#excel)
 - [🗄️ SQL](#🗄️-sql)
 - [🐍 Python](#🐍-python)
 - [📈 Pandas](#📈-pandas)
@@ -17,7 +17,7 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 - [📝 License](#📝-license)
 - [📧 Contact](#📧-contact)
 
-## 📊 Excel
+## Excel
 
 __🎥 Excel Videos__
 
