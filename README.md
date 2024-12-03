@@ -1,4 +1,4 @@
-# Resources
+#Resources
 
 Welcome to the **Resources** repository! Here you will find curated learning resources to help you learn and practice **Data Science** and **Data Analytics**.
 
@@ -6,8 +6,8 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 
 ## 📜 Table of Contents
 
-- [📊 Excel](##excel)
-  - [🎥 Excel Videos](###excel-videos)
+- [📊 Excel](#excel)
+  - [🎥 Excel Videos](##excel-videos)
   - [📚 Excel Playlists](###excel-playlists)
   - [🌐 Excel Online (Self-paced)](##excel-online-self-paced)
   - [🛠️ Excel Projects](###excel-projects)
@@ -39,7 +39,7 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 
 ---
 
-## 📊 Excel
+#📊 Excel
 
 ### 🎥 Excel Videos
 
