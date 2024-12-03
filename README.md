@@ -33,17 +33,16 @@ __📚 Excel Playlists__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Playlist Title)*     | --  | -- | -- | -- |
-| *(Contents are coming soon)* | -- | -- | -- | -- |
-
+| *(Contents are coming soon)* | -- | -- | -- | --       |
 
 
 __🛠️ Excel Projects__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Project Title)*     | --  | -- | -- | -- |
-| *(Project Title)* | -- | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
+
+
 
 __🌐 Website (Learn and practice online)__
 
@@ -65,16 +64,13 @@ __📚 SQL Playlists__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Playlist Title)*     | --  | -- | -- | -- |
-| *(Contents are coming soon)* | -- | -- | -- | -- |
-
+| *(Contents are coming soon)* | -- | -- | -- | --       |
 
 __🛠️ SQL Projects__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Project Title)*     | --  | -- | -- | -- |
-| *(Project Title)* | -- | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
 
 __🌐 Website (Learn and practice online)__
 
@@ -95,16 +91,15 @@ __📚 Python Playlists__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Playlist Title)*     | --  | -- | -- | -- |
-| *(Contents are coming soon)* | -- | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
+
 
 
 __🛠️ Python Projects__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Project Title)*     | --  | -- | -- | -- |
-| *(Project Title)* | -- | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
 
 __🌐 Website (Learn and practice online)__
 
@@ -125,8 +120,8 @@ __📚 Pandas Playlists__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Playlist Title)*     | --  | -- | -- | -- |
-| *(Contents are coming soon)* | -- | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
+
 
 
 
@@ -134,8 +129,7 @@ __🛠️ Pandas Projects__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Project Title)*     | --  | -- | -- | -- |
-| *(Project Title)* | -- | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
 
 __🌐 Website (Learn and practice online)__
 
@@ -163,14 +157,20 @@ __🛠️ NumPy Projects__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Project Title)*     | --  | -- | -- | -- |
-| *(Project Title)* | -- | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
 
 __🌐 Website (Learn and practice online)__
 
 - *Coming Soon...*
 
 ---
+
+
+
+| **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
+|-------------------------|-------------------|--------------|--------------|----------------|
+| *(Playlist Title)*| --  | -- | -- | -- |
+| *(Contents are c)* | -- | -- | -- | -- |
 
 
 ## YouTube Channels
