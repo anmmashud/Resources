@@ -27,14 +27,14 @@ __🎥 Excel Videos__
 | **Title**                                      | **Channel**    | **Language** | **Duration** | **Link**                                                                                      |
 |------------------------------------------------|----------------|--------------|--------------|-----------------------------------------------------------------------------------------------|
 | Excel for Data Analytics - Full Course for Beginners | Luke Barousse  | English      | 11 hrs       | [Watch Here](https://youtu.be/pCJ15nGFgVg?si=e3qADviObSye8rwr)                              |
-| *(Contents are coming soon)*                   | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#)                                                                                      |
+| *(Contents are coming soon)*                   | -- | -- | -- | --                                                                                      |
 
 __📚 Excel Playlists__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Playlist Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
-| *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
+| *(Playlist Title)*     | --  | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | -- |
 
 
 
@@ -42,8 +42,8 @@ __🛠️ Excel Projects__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Project Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
-| *(Project Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
+| *(Project Title)*     | --  | -- | -- | -- |
+| *(Project Title)* | -- | -- | -- | -- |
 
 __🌐 Website (Learn and practice online)__
 
@@ -59,26 +59,26 @@ __🎥 SQL Videos__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#)       |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
 
 __📚 SQL Playlists__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Playlist Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
-| *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
+| *(Playlist Title)*     | --  | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | -- |
 
 
 __🛠️ SQL Projects__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Project Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
-| *(Project Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
+| *(Project Title)*     | --  | -- | -- | -- |
+| *(Project Title)* | -- | -- | -- | -- |
 
 __🌐 Website (Learn and practice online)__
 
-- **(Contents are coming soon)**
+- *Coming Soon...*
 
 ---
 
@@ -89,26 +89,26 @@ __🎥 Python Videos__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#)       |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
 
 __📚 Python Playlists__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Playlist Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
-| *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
+| *(Playlist Title)*     | --  | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | -- |
 
 
 __🛠️ Python Projects__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Project Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
-| *(Project Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
+| *(Project Title)*     | --  | -- | -- | -- |
+| *(Project Title)* | -- | -- | -- | -- |
 
 __🌐 Website (Learn and practice online)__
 
-- **(Contents are coming soon)**
+- *Coming Soon...*
 
 ---
 
@@ -119,14 +119,14 @@ __🎥 Pandas Videos__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#)       |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
 
 __📚 Pandas Playlists__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Playlist Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
-| *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
+| *(Playlist Title)*     | --  | -- | -- | -- |
+| *(Contents are coming soon)* | -- | -- | -- | -- |
 
 
 
@@ -134,12 +134,12 @@ __🛠️ Pandas Projects__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Project Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
-| *(Project Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
+| *(Project Title)*     | --  | -- | -- | -- |
+| *(Project Title)* | -- | -- | -- | -- |
 
 __🌐 Website (Learn and practice online)__
 
-- **(Contents are coming soon)**
+- *Coming Soon...*
 
 ---
 
@@ -150,25 +150,25 @@ __🎥 NumPy Videos__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#)       |
+| *(Contents are coming soon)* | -- | -- | -- | --       |
 
 __📚 NumPy Playlists__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Videos__**         | **Link**       |
 |-------------------------|-------------------|--------------|--------------|--------------------|----------------|
-| *(Contents are coming soon)* | *(Channel Name)* | *(Language)* | *(Duration)* | *(Number of Videos__)* | [Watch Here](#) |
+| *(Contents are coming soon)* | -- | -- | -- | *(Number of Videos__)* | -- |
 
 
 __🛠️ NumPy Projects__
 
 | **Title**               | **Channel**       | **Language** | **Duration** | **Link**       |
 |-------------------------|-------------------|--------------|--------------|----------------|
-| *(Project Title)*     | *(Channel Name)*  | *(Language)* | *(Duration)* | [Watch Here](#) |
-| *(Project Title)* | *(Channel Name)* | *(Language)* | *(Duration)* | [Watch Here](#) |
+| *(Project Title)*     | --  | -- | -- | -- |
+| *(Project Title)* | -- | -- | -- | -- |
 
 __🌐 Website (Learn and practice online)__
 
-- **(Contents are coming soon)**
+- *Coming Soon...*
 
 ---
 
@@ -186,8 +186,6 @@ __🌐 Website (Learn and practice online)__
 5. *(Contents are coming soon)*
 
 
----
-
 
 ## Final Projects
 
@@ -202,7 +200,7 @@ __🌐 Website (Learn and practice online)__
 This repository is licensed under the [MIT License](LICENSE).
 
 
----
+
 
 ## 📧 Contact
 
