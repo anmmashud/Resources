@@ -17,7 +17,6 @@ Welcome to the **Resources** repository! Here you will find curated learning res
 - [📈 Pandas](#pandas)
 - [🔢 NumPy](#numpy)
 - [📺 Channels](#channels)
-- [📌 How to Use This Repository](#how-to-use-this-repository)
 - [🎓 Final Projects](#final-projects)
 
 
